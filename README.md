@@ -1,7 +1,7 @@
 # HOMEWORK 1
 **AUTHOR : NELDA**
 
-# QUESTIONS
+# Questions
 ## Stacks
 1. Write a C++ program to reverse a stack using recursion, without using any loop.
 
