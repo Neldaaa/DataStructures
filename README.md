@@ -1,5 +1,5 @@
 # HOMEWORK 1
-## AUTHOR : NELDA**
+# AUTHOR : NELDA
 
 # Questions
 ## Stacks
